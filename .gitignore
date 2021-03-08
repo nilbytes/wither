@@ -3,6 +3,8 @@
 
 # File Ignores #
 **/*.rs.bk
+Cargo.lock
 
 # VSCode files
 .vscode/
+
